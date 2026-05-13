@@ -1,0 +1,185 @@
+Refined Codebook v2
+
+Parent Code: Instructional_Format_and_Feedback
+Child Code: Prompt_Activation
+Definition: Teacher introduces the task, clarifies expectations, or activates prior knowledge.
+Include: Prompt explanation, prior knowledge activation, task framing.
+Exclude: Later guidance not focused on task setup.
+Example Type of Evidence: Teacher spent 10 minutes introducing the prompt.
+Likely Relevance to Quantitative Findings: Helps establish implementation differences between conditions.
+
+Parent Code: Instructional_Format_and_Feedback
+Child Code: Coded_Feedback_Used
+Definition: Feedback is provided through coded symbols rather than direct correction.
+Include: Coded symbols, returned drafts with codes, coding system references.
+Exclude: Direct written correction.
+Example Type of Evidence: Students decoded symbols using reference cards.
+Likely Relevance to Quantitative Findings: May explain stronger active processing in EG.
+
+Parent Code: Instructional_Format_and_Feedback
+Child Code: Direct_Correction_Used
+Definition: Teacher provides direct written correction, underlining, or model answers.
+Include: Red underlines, correct forms written, model text supplied.
+Exclude: Indirect prompting only.
+Example Type of Evidence: Essays returned with red underlines and correct forms.
+Likely Relevance to Quantitative Findings: May explain passivity and weak transfer in CG.
+
+Parent Code: Instructional_Format_and_Feedback
+Child Code: Revision_Cycle_Completed
+Definition: Lesson includes draft, feedback, revision, and closure via finalization or reflection.
+Include: Final draft completed, presentation, reflection.
+Exclude: Attempted but incomplete revision, aspirational recommendations.
+Example Type of Evidence: All groups completed a final draft and presented.
+Likely Relevance to Quantitative Findings: May explain consolidation of learning in EG.
+
+Parent Code: Student_Engagement
+Child Code: High_Engagement
+Definition: Students actively attend to, process, or work with feedback.
+Include: High ratings, active decoding/discussion/revision.
+Exclude: Mere compliance without processing.
+Example Type of Evidence: 92–95% actively engaged.
+Likely Relevance to Quantitative Findings: Supports interpretation of stronger EG outcomes.
+
+Parent Code: Student_Engagement
+Child Code: Low_or_Passive_Engagement
+Definition: Students show minimal cognitive involvement or superficial attention.
+Include: Brief glancing, passive listening, superficial copying.
+Exclude: Mostly active engagement.
+Example Type of Evidence: Students glanced briefly at corrections.
+Likely Relevance to Quantitative Findings: Helps explain weaker CG outcomes.
+
+Parent Code: Student_Engagement
+Child Code: On_Task_Behaviour
+Definition: Students remain behaviorally focused on lesson activities.
+Include: Orderly, quiet, sustained attention to tasks.
+Exclude: Cognitive engagement claims by themselves.
+Example Type of Evidence: Classroom orderly but passive.
+Likely Relevance to Quantitative Findings: Separates compliance from learning.
+
+Parent Code: Peer_Interaction_and_Collaboration
+Child Code: Within_Group_Discussion
+Definition: Students discuss corrections or revisions within groups.
+Include: Group debate, negotiation, collaborative drafting.
+Exclude: Sitting together but working individually.
+Example Type of Evidence: Groups debated corrections.
+Likely Relevance to Quantitative Findings: Explains collaborative learning processes in EG.
+
+Parent Code: Peer_Interaction_and_Collaboration
+Child Code: Across_Group_Exchange
+Definition: Students exchange drafts or comments across groups.
+Include: Inter-group draft exchange, presentations, peer comments.
+Exclude: Within-group work only.
+Example Type of Evidence: Groups exchanged drafts and gave comments.
+Likely Relevance to Quantitative Findings: Explains broader peer-mediated learning in EG.
+
+Parent Code: Peer_Interaction_and_Collaboration
+Child Code: No_Peer_Interaction
+Definition: Peer discussion or collaboration is absent.
+Include: Silent individual work, no discussion encouraged.
+Exclude: Limited but real interaction.
+Example Type of Evidence: No peer interaction across six weeks.
+Likely Relevance to Quantitative Findings: Explains isolated correction in CG.
+
+Parent Code: Peer_Interaction_and_Collaboration
+Child Code: Uneven_Participation
+Definition: Collaboration exists but participation is not equally distributed.
+Include: Dominant speakers, quieter students passive.
+Exclude: Equitable collaboration.
+Example Type of Evidence: Some groups had dominant speakers.
+Likely Relevance to Quantitative Findings: Useful for early implementation challenges in EG.
+
+Parent Code: Metalinguistic_Use_and_Revision
+Child Code: Metalinguistic_Use_Present
+Definition: Students use grammatical or linguistic terminology to discuss errors.
+Include: Terms like tense, agreement, article, spelling.
+Exclude: Implicit correction without terminology.
+Example Type of Evidence: Students used tense and agreement.
+Likely Relevance to Quantitative Findings: May explain deeper error processing in EG.
+
+Parent Code: Metalinguistic_Use_and_Revision
+Child Code: Metalinguistic_Use_Absent
+Definition: Students do not use grammatical terminology or cannot name error categories.
+Include: No metalanguage observed, cannot name error types.
+Exclude: Even limited terminology present.
+Example Type of Evidence: Students could not name error types.
+Likely Relevance to Quantitative Findings: Helps explain shallow processing in CG.
+
+Parent Code: Metalinguistic_Use_and_Revision
+Child Code: Student_Initiated_Revision
+Definition: Students revise or correct errors independently or with peers.
+Include: Self-correction, peer-supported correction, independent revision.
+Exclude: Teacher supplies correction directly.
+Example Type of Evidence: Students corrected errors without prompting.
+Likely Relevance to Quantitative Findings: Likely linked to improved EG writing performance.
+
+Parent Code: Metalinguistic_Use_and_Revision
+Child Code: No_Revision_Transfer
+Definition: Students do not carry feedback into later writing or revision.
+Include: No revision attempted, copying only, same errors persist.
+Exclude: Partial but real revision.
+Example Type of Evidence: No revision attempted across six weeks.
+Likely Relevance to Quantitative Findings: Explains limited CG improvement.
+
+Parent Code: Teacher_Role
+Child Code: Teacher_as_Facilitator
+Definition: Teacher prompts, monitors, or guides without supplying answers directly.
+Include: Prompting, monitoring, redirecting to peers.
+Exclude: Direct correction or answer giving.
+Example Type of Evidence: Teacher asked: What do your group members think?
+Likely Relevance to Quantitative Findings: Supports learner autonomy and collaborative revision.
+
+Parent Code: Teacher_Role
+Child Code: Teacher_as_Corrector
+Definition: Teacher mainly provides correction, answers, or model text.
+Include: Fixes errors, gives correct version, model provider.
+Exclude: Indirect dialogic guidance.
+Example Type of Evidence: Teacher corrected all essays and provided model text.
+Likely Relevance to Quantitative Findings: May reinforce dependence in CG.
+
+Parent Code: Teacher_Role
+Child Code: Teacher_Prompting_without_Answer
+Definition: Teacher intervenes through prompting rather than direct correction.
+Include: Redirects students to peers, asks guiding questions.
+Exclude: Gives answer anyway.
+Example Type of Evidence: Students asked peers first, then teacher.
+Likely Relevance to Quantitative Findings: Indicates mature facilitation in EG.
+
+Parent Code: Teacher_Role
+Child Code: Teacher_Confirmation_Dependency
+Definition: Students rely on teacher validation before applying corrections.
+Include: Is this correct? repeated teacher validation-seeking.
+Exclude: Resolving issues mainly within groups.
+Example Type of Evidence: Students frequently asked teacher for confirmation.
+Likely Relevance to Quantitative Findings: Useful marker of limited autonomy.
+
+Parent Code: Constraints_and_Limitations
+Child Code: Symbol_Confusion
+Definition: Students struggle to interpret coded feedback symbols.
+Include: Confusion with symbol meanings, reliance on cards.
+Exclude: Symbols fully internalized.
+Example Type of Evidence: One-third struggled to recall symbol meanings.
+Likely Relevance to Quantitative Findings: Marks early EG implementation challenge.
+
+Parent Code: Constraints_and_Limitations
+Child Code: Time_Management_Problem
+Definition: Time is used inefficiently or phases do not progress smoothly.
+Include: Delayed transitions, revision took longer than planned.
+Exclude: Smooth timing and completed phases.
+Example Type of Evidence: Decoding and revision took longer than planned.
+Likely Relevance to Quantitative Findings: Shows early implementation strain or unproductive time use.
+
+Parent Code: Constraints_and_Limitations
+Child Code: Mechanical_Copying
+Definition: Students copy text or correction without analysis or understanding.
+Include: Copying model text verbatim, superficial completion.
+Exclude: Original revision or adaptation.
+Example Type of Evidence: Students copied model text without analysis.
+Likely Relevance to Quantitative Findings: Explains lack of transfer in CG.
+
+Parent Code: Constraints_and_Limitations
+Child Code: Lack_of_Autonomy
+Definition: Students depend heavily on teacher correction or do not self-correct.
+Include: Waiting for teacher, no self-correction culture.
+Exclude: Independent revision.
+Example Type of Evidence: Students waited for teacher to correct errors.
+Likely Relevance to Quantitative Findings: Helps explain limited CG development and early EG reliance.

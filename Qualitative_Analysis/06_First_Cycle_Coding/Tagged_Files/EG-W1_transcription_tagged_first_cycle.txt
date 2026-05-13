@@ -1,0 +1,346 @@
+Document ID: EG-W1
+File Name: EG-W1.pdf
+Data Type: Structured classroom observation sheet
+Observer: Mohamed SAIDI
+Observer Role: English Inspector
+School: Cheikh Larbi Tebessi secondary-school, Tebessa
+Group: Experimental (ICM)
+Week: W1
+Sessions Observed: 1, 2, 3
+Pages: 7
+
+Transcription Notes:
+- This is a faithful typed transcription of the handwritten observation sheet.
+- Structure, item order, and section order follow the original.
+- Unclear or illegible portions are marked using standardized notation.
+
+[Page 1]
+
+Inspector’s Classroom Observation Sheet
+
+Observation Date: [blank]
+Inspector: Mohamed SAIDI
+Specialty: English Inspector (30 Years of experience)
+School: Cheikh Larbi Tebessi secondary-school, Tebessa
+Observed Group: Experimental (ICM)
+Observed Week: W1
+Session(s): 1, 2, 3
+
+Instruction:
+Complete the Section A table that matches the observed group. The other Section A table may be left blank.
+
+A. Instructional Format and Feedback Cycle
+
+A1. Experimental Group (ICM)
+
+Session: 1
+Observed Feature: Teacher introduces the prompt and activates prior knowledge or task understanding.
+Observed: Yes
+Evidence / Notes: {{Prompt_Activation{{Teacher spent 10 minutes explaining the prompt, defining key terms, and activating prior knowledge.}}Prompt_Activation}}
+
+Session: 1
+Observed Feature: Students work in small collaborative groups (e.g., 4–5 learners) with visible role-sharing or coordinated drafting.
+Observed: Yes
+Evidence / Notes: {{Within_Group_Discussion{{{{Uneven_Participation{{Groups of 4–5 students formed. Role-sharing was informal; no designated roles assigned yet.}}Within_Group_Discussion}}}}Uneven_Participation}}
+
+Session: 1
+Observed Feature: Groups produce one collaborative draft for submission.
+Observed: Yes
+Evidence / Notes:{{Within_Group_Discussion{{ Each group produced a single collaborative draft after 45 minutes of discussion and joint writing.}}Within_Group_Discussion}}
+
+Session: 1
+Observed Feature: Teacher collects drafts and applies coded feedback symbols only, without direct written correction.
+Observed: Yes
+Evidence / Notes: {{Coded_Feedback_Used{{Teacher collected drafts and applied coded symbols (T, S-V, Prep., …E) after class. No direct corrections were written.}}Coded_Feedback_Used}}
+
+Session: 2
+Observed Feature: Teacher returns drafts with coded symbols and students begin decoding them.
+Observed: Yes
+Evidence / Notes: {{Coded_Feedback_Used{{{{Symbol_Confusion{{Drafts returned with coded symbols approximately 5 minutes in. Students struggled with symbol recall initially.
+}}Coded_Feedback_Used}}}}Symbol_Confusion}}
+Session: 2
+Observed Feature: Students discuss the codes and negotiate corrections within groups or with peers.
+Observed: Yes
+Evidence / Notes: {{Within_Group_Discussion{{{{Uneven_Participation{{Students discussed error types within groups. Some showed hesitation; some groups had dominant speakers while quieter students observed passively.}}Within_Group_Discussion}}}}Uneven_Participation}}
+
+Session: 2
+Observed Feature: Peer exchange across groups occurs and the teacher facilitates without supplying direct answers.
+Observed: Partly
+Evidence / Notes:{{Across_Group_Exchange{{{{Teacher_as_Corrector{{{{Teacher_Prompting_without_Answer{{ Limited peer exchange between groups occurred. Teacher occasionally provided direct answers when pressed by frustrated students rather than prompting peer discussion.}}Across_Group_Exchange}}}}Teacher_as_Corrector}}}}Teacher_Prompting_without_Answer}}
+
+Session: 3
+Observed Feature: Groups revise and complete a final draft that incorporates coded and peer feedback.
+Observed: Partly
+Evidence / Notes: {{Student_Initiated_Revision{{{{Time_Management_Problem{{{{Teacher_Confirmation_Dependency{{Revision was attempted, but not all groups completed a polished final draft within the session. Students relied heavily on teacher confirmation.}}Student_Initiated_Revision}}}}Time_Management_Problem}}}}Teacher_Confirmation_Dependency}}
+
+Session: 3
+Observed Feature: Final presentation, summary feedback, and individual reflection closes the cycle.
+Observed: No
+Evidence / Notes: No presentations, summary feedback, or reflection activity occurred in Week 1. The cycle closed with revision only.
+
+Note: S.: Session, Y.: Yes, P.: Partly, N.: No
+
+[Page 2]
+
+A. Instructional Format and Feedback Cycle (continued)
+
+A2. Control Group (Traditional Correction)
+
+Session: 1
+Observed Feature: Teacher introduces the writing prompt or task without collaborative modelling.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 1
+Observed Feature: Students draft individually and work mostly in silence.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 1
+Observed Feature: Drafts are collected at the end of the session.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 2
+Observed Feature: Students continue the same essay individually; no pair or group discussion is required.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 2
+Observed Feature: Teacher circulates mainly to answer individual questions rather than facilitate peer learning.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 2
+Observed Feature: Teacher collects completed drafts for home correction or later return.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 3
+Observed Feature: Corrected essays are returned with underlining and direct written correction.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 3
+Observed Feature: Students review corrections individually, with limited questioning.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+Session: 3
+Observed Feature: A model text or teacher-provided correct version is supplied and copied.
+Observed: [blank]
+Evidence / Notes: [blank]
+
+[Page 3]
+
+B. Student Engagement and Interaction
+
+Indicator: Attention during teacher explanation or task briefing
+Rating: High
+Notes: {{High_Engagement{{Students listened attentively. Teacher explained coded symbols; many students asked clarifying questions.}}High_Engagement}}
+
+Indicator: Engagement with received feedback or corrections
+Rating: Very High
+Notes: {{High_Engagement{{{{Coded_Feedback_Used{{Students engaged actively with coded symbols. They used reference cards to decode errors.}}High_Engagement}}}}Coded_Feedback_Used}}
+
+Indicator: Quality of peer or pair interaction (when relevant)
+Rating: Moderate
+Notes: {{Within_Group_Discussion{{Groups discussed error types. Some hesitation, but some students participated actively.}}Within_Group_Discussion}}
+
+Indicator: Willingness to ask questions about errors or revisions
+Rating: High
+Notes: {{Teacher_Confirmation_Dependency{{{{Within_Group_Discussion{{Several students asked teacher about symbol meanings; some asked peers first.}}Teacher_Confirmation_Dependency}}}}Within_Group_Discussion}}
+
+Indicator: Use of metalanguage (e.g., tense, agreement, article, punctuation)
+Rating: Low
+Notes: {{Metalinguistic_Use_Present{{Limited use. A few students attempted to name error types (e.g., “spelling”, “tense”).}}Metalinguistic_Use_Present}}
+
+Indicator: Student-initiated correction or revision
+Rating: Low
+Notes: {{Student_Initiated_Revision{{{{Teacher_Confirmation_Dependency{{Students began revising but relied on teacher confirmation.}}Student_Initiated_Revision}}}}Teacher_Confirmation_Dependency}}
+
+Indicator: Overall participation and on-task behaviour
+Rating: High
+Notes: {{On_Task_Behaviour{{Most groups on task. Some off-task talk in 3 groups.}}On_Task_Behaviour}}
+
+Estimated percentage of actively engaged students: {{High_Engagement{{55–60%}}High_Engagement}}
+
+Inspector’s Note:
+First week of ICM implementation. {{Symbol_Confusion{{{{Coded_Feedback_Used{{Students enthusiastic but still learning coding system. Some confusion with symbols}}Symbol_Confusion}}}}Coded_Feedback_Used}}. {{Teacher_as_Facilitator{{{{Teacher_as_Corrector{{Teacher facilitates well but occasionally provides direct answers.}}Teacher_as_Facilitator}}}}Teacher_as_Corrector}} Promising start.
+
+[Page 4]
+
+C. Classroom Dynamics and Teacher Practices
+
+Observation Category: Clarity of instructions and task guidance
+Notes:{{Coded_Feedback_Used{{{{Within_Group_Discussion{{ Instructions for collaborative drafting were clear. Coded symbols explained with examples.}}Coded_Feedback_Used}}}}Within_Group_Discussion}}
+
+Observation Category: Responsiveness to students’ questions
+Notes: {{Teacher_as_Corrector{{Teacher responded promptly; occasionally provided direct answers instead of prompting peer discussion.}}Teacher_as_Corrector}}
+
+Observation Category: Type and quality of feedback provided
+Notes: Coded symbols only. No direct corrections. Feedback was accurate.
+
+Observation Category: Classroom organization, seating, and noise level
+Notes: {{Within_Group_Discussion{{{{On_Task_Behaviour{{Students arranged in groups of 4–5; noise level productive but occasionally high.
+}}Within_Group_Discussion}}}}On_Task_Behaviour}}
+Observation Category: Time management across phases or sessions
+Notes: {{Time_Management_Problem{{Poor time management. Decoding and revision took longer than planned.}}Time_Management_Problem}}
+
+Observation Category: Use of board, model text, coding system, or visual aids
+Notes: {{Coded_Feedback_Used{{Coding symbol poster displayed. Laminated reference cards provided to each group.}}Coded_Feedback_Used}}
+
+Observation Category: Evidence of student autonomy and self-correction
+Notes:{{Lack_of_Autonomy{{{{Teacher_Confirmation_Dependency{{ Limited. Students sought teacher confirmation frequently.
+}}Lack_of_Autonomy}}}}Teacher_Confirmation_Dependency}}
+Observation Category: Encouragement of discussion, revision, or reflection
+Notes: {{Within_Group_Discussion{{{{Teacher_as_Facilitator{{Teacher encouraged group discussion. No reflection activity in Week 1.}}Within_Group_Discussion}}}}Teacher_as_Facilitator}}
+
+[Page 5]
+
+D. Comparative Lens (Optional)
+
+Dimension: Nature of feedback provided
+Experimental Group (ICM): {{Coded_Feedback_Used{{Coded symbols only}}Coded_Feedback_Used}}
+Control Group (Traditional): {{Direct_Correction_Used{{Red underlines + direct corrections written above / beside errors}}Direct_Correction_Used}}
+
+Dimension: Teacher role during correction
+Experimental Group (ICM): {{Teacher_as_Facilitator{{Facilitator, coder}}Teacher_as_Facilitator}}
+Control Group (Traditional): {{Teacher_as_Corrector{{Corrector, model provider}}Teacher_as_Corrector}}
+
+Dimension: Student role during the lesson
+Experimental Group (ICM): {{Within_Group_Discussion{{Active decoder, collaborator}}Within_Group_Discussion}}
+Control Group (Traditional): {{Lack_of_Autonomy{{{{Mechanical_Copying{{{{Low_or_Passive_Engagement{{Passive receiver, copier}}Lack_of_Autonomy}}}}Mechanical_Copying}}}}Low_or_Passive_Engagement}}
+
+Dimension: Peer interaction and collaboration
+Experimental Group (ICM):{{Within_Group_Discussion{{ Frequent (group discussions, some peer exchange)}}Within_Group_Discussion}}
+Control Group (Traditional): {{No_Peer_Interaction{{None}}No_Peer_Interaction}}
+
+Dimension: Student engagement with feedback
+Experimental Group (ICM): {{High_Engagement{{55–60% actively decoding and discussing}}High_Engagement}}
+Control Group (Traditional): {{Low_or_Passive_Engagement{{15–20% glanced at corrections for 2 minutes}}Low_or_Passive_Engagement}}
+
+Dimension: Revision requirement
+Experimental Group (ICM): {{Student_Initiated_Revision{{Yes (revision attempted though not fully completed)}}Student_Initiated_Revision}}
+Control Group (Traditional):{{Mechanical_Copying{{{{Direct_Correction_Used{{{{No_Revision_Transfer{{ No (only copied model text from board)}}Mechanical_Copying}}}}Direct_Correction_Used}}}}No_Revision_Transfer}}
+
+Dimension: Use of metalanguage
+Experimental Group (ICM):{{Metalinguistic_Use_Present{{ Emerging (few students used “tense”, “spelling”, etc.)}}Metalinguistic_Use_Present}}
+Control Group (Traditional): {{Metalinguistic_Use_Absent{{{{No_Peer_Interaction{{None}}Metalinguistic_Use_Absent}}}}No_Peer_Interaction}}
+
+Dimension: Observable learning behaviours
+Experimental Group (ICM): {{Student_Initiated_Revision{{Decoding, discussing, attempting revision}}Student_Initiated_Revision}}
+Control Group (Traditional): {{Teacher_Confirmation_Dependency{{Copying, glancing, waiting}}Teacher_Confirmation_Dependency}}
+
+Dimension: Student autonomy
+Experimental Group (ICM): {{Teacher_Confirmation_Dependency{{{{Student_Initiated_Revision{{Emerging (students began revising but relied on teacher)}}Teacher_Confirmation_Dependency}}}}Student_Initiated_Revision}}
+Control Group (Traditional): {{Lack_of_Autonomy{{{{No_Peer_Interaction{{{{Teacher_Confirmation_Dependency{{None (students expected teacher to fix all errors)}}Lack_of_Autonomy}}}}No_Peer_Interaction}}}}Teacher_Confirmation_Dependency}}
+
+Dimension: Evidence of progress or improvement
+Experimental Group (ICM): Baseline week
+Control Group (Traditional): Baseline week
+
+Comparative Note:
+Week 1 serves as baseline for both groups.{{High_Engagement{{ The experimental group shows emerging signs of active engagement (55–60%)}}High_Engagement}} and{{Within_Group_Discussion{{ frequent peer interaction}}Within_Group_Discussion}},{{Coded_Feedback_Used{{ though still adapting to coded symbols}}Coded_Feedback_Used}}. {{Low_or_Passive_Engagement{{The control group remains passive (15–20% engagement) }}Low_or_Passive_Engagement}}with {{No_Peer_Interaction{{no peer interaction}}No_Peer_Interaction}}. The experimental group’s challenges ({{Symbol_Confusion{{symbol confusion}}Symbol_Confusion}},{{Time_Management_Problem{{ time management}}Time_Management_Problem}}) are productive struggles; the control group’s passivity offers no struggle and no growth. The divergence in student roles is already visible.
+
+[Page 6]
+
+E. Challenges or Constraints Observed
+
+Challenge: Confusion with feedback symbols, instructions, or task expectations
+Challenge Present: Yes
+Description / Evidence: {{Symbol_Confusion{{Approximately one-third of students struggled to recall symbol meanings. Frequent reference to cards.}}Symbol_Confusion}}
+
+Challenge: Limited engagement with feedback or corrections
+Challenge Present: No
+Description / Evidence: {{Coded_Feedback_Used{{{{High_Engagement{{Most students engaged actively with coded feedback.}}Coded_Feedback_Used}}}}High_Engagement}}
+
+Challenge: Uneven participation among students or groups
+Challenge Present: Yes
+Description / Evidence:{{Uneven_Participation{{{{Low_or_Passive_Engagement{{{{On_Task_Behaviour{{ Some groups had dominant speakers; quieter students observed passively.}}Uneven_Participation}}}}Low_or_Passive_Engagement}}}}On_Task_Behaviour}}
+
+Challenge: Over-reliance on teacher confirmation or direct answers
+Challenge Present: Yes
+Description / Evidence:{{Teacher_Confirmation_Dependency{{ Students frequently asked teacher “Is this correct?” before consulting peers.}}Teacher_Confirmation_Dependency}}
+
+Challenge: Weak or absent peer interaction where collaboration was possible
+Challenge Present: No
+Description / Evidence: {{Uneven_Participation{{{{Within_Group_Discussion{{Most groups interacted frequently; 3 groups had limited discussion.}}Uneven_Participation}}}}Within_Group_Discussion}}
+
+Challenge: Mechanical copying or superficial completion without understanding
+Challenge Present: No
+Description / Evidence: {{Student_Initiated_Revision{{{{Coded_Feedback_Used{{Students decoded rather than copied. Understanding was evident.
+}}Student_Initiated_Revision}}}}Coded_Feedback_Used}}
+Challenge: Difficulty moving between phases, tasks, or transitions
+Challenge Present: Yes
+Description / Evidence: {{Time_Management_Problem{{Transition from decoding to peer discussion was disjointed. Students unsure when to begin.}}Time_Management_Problem}}
+
+Challenge: Off-task behaviour, distraction, or loss of focus
+Challenge Present: No
+Description / Evidence: {{On_Task_Behaviour{{Minimal off-task behaviour.}}On_Task_Behaviour}}
+
+Challenge: No visible revision or limited transfer of feedback to later writing
+Challenge Present: No
+Description / Evidence:{{Student_Initiated_Revision{{ Revision was attempted (not completed).}}Student_Initiated_Revision}}
+
+Challenge: Other (specify)
+Challenge Present: No
+Description / Evidence: Not observed
+
+[Page 7]
+
+F. Overall Impression and Summary Comments
+
+Strengths observed during the session:
+1. {{High_Engagement{{{{Within_Group_Discussion{{Students responded positively to collaborative drafting.}}High_Engagement}}}}Within_Group_Discussion}}
+2. {{Coded_Feedback_Used{{Coded feedback system was introduced clearly.}}Coded_Feedback_Used}}
+3. {{Teacher_as_Facilitator{{Teacher demonstrated good facilitation skills.}}Teacher_as_Facilitator}}
+4. {{Within_Group_Discussion{{Most groups produced a collaborative draft.}}Within_Group_Discussion}}
+
+Weaknesses / concerns observed:
+1.{{Symbol_Confusion{{ Symbol confusion slowed down decoding phase.}}Symbol_Confusion}}
+2. {{Uneven_Participation{{Uneven participation within some groups.}}Uneven_Participation}}
+3. {{Time_Management_Problem{{Time management needs improvement.}}Time_Management_Problem}}
+4.{{Teacher_as_Corrector{{ Teacher occasionally provided direct answers instead of prompting.}}Teacher_as_Corrector}}
+
+General summary comment:
+Week 1 of ICM implementation shows promise. {{Coded_Feedback_Used{{Students are adapting to collaborative work and coded feedback}}Coded_Feedback_Used}}. Frequent peer interaction is emerging, though not yet extensive. Initial challenges are typical for a new pedagogical approach; with continued practice, these issues are likely to resolve.
+
+Recommendations for Subsequent Sessions:
+1. {{Symbol_Confusion{{Provide additional practice with symbol decoding before peer exchange.}}Symbol_Confusion}}
+2.{{Uneven_Participation{{ {{Uneven_Participation{{}}Uneven_Participation}}Assign specific group roles to ensure equitable participation.}}Uneven_Participation}}
+3. {{Teacher_Prompting_without_Answer{{Encourage students to consult peers before approaching the teacher.}}Teacher_Prompting_without_Answer}}
+4.{{Symbol_Confusion{{{{Coded_Feedback_Used{{ Reduce the number of coded symbols in early sessions.}}Symbol_Confusion}}}}Coded_Feedback_Used}}
+5. {{Across_Group_Exchange{{Introduce structured peer exchange across groups.}}Across_Group_Exchange}}
+
+Final Summary Comment from the Inspector:
+{{Coded_Feedback_Used{{{{Revision_Cycle_Completed{{The ICM has been introduced successfully.}}Coded_Feedback_Used}}}}Revision_Cycle_Completed}} {{High_Engagement{{{{Within_Group_Discussion{{Students are engaged and willing to collaborate.}}High_Engagement}}}}Within_Group_Discussion}} {{Within_Group_Discussion{{Frequent peer interaction is already observable, though still developing.}}Within_Group_Discussion}} {{Coded_Feedback_Used{{{{Symbol_Confusion{{The coded feedback system is a significant shift from traditional correction, and students will need time to internalize it.}}Coded_Feedback_Used}}}}Symbol_Confusion}} {{Teacher_Prompting_without_Answer{{{{Teacher_as_Facilitator{{The teacher should resist providing direct answers and instead prompt peer discussion.}}Teacher_Prompting_without_Answer}}}}Teacher_as_Facilitator}}
+
+Inspector’s Signature: [signature]
+Date: Nov. 24, 2025
+
+
+CODES LIST
+Across_Group_Exchange -- CATEGORY: Peer_Interaction_and_Collaboration
+Coded_Feedback_Used -- CATEGORY: Instructional_Format_and_Feedback
+Direct_Correction_Used -- CATEGORY: Instructional_Format_and_Feedback
+High_Engagement -- CATEGORY: Student_Engagement
+Lack_of_Autonomy -- CATEGORY: Constraints_and_Limitations
+Low_or_Passive_Engagement -- CATEGORY: Student_Engagement
+Mechanical_Copying -- CATEGORY: Constraints_and_Limitations
+Metalinguistic_Use_Absent -- CATEGORY: Metalinguistic_Use_and_Revision
+Metalinguistic_Use_Present -- CATEGORY: Metalinguistic_Use_and_Revision
+No_Peer_Interaction -- CATEGORY: Peer_Interaction_and_Collaboration
+No_Revision_Transfer -- CATEGORY: Metalinguistic_Use_and_Revision
+On_Task_Behaviour -- CATEGORY: Student_Engagement
+Prompt_Activation -- CATEGORY: Instructional_Format_and_Feedback
+Revision_Cycle_Completed -- CATEGORY: Instructional_Format_and_Feedback
+Student_Initiated_Revision -- CATEGORY: Metalinguistic_Use_and_Revision
+Symbol_Confusion -- CATEGORY: Constraints_and_Limitations
+Teacher_as_Corrector -- CATEGORY: Teacher_Role
+Teacher_as_Facilitator -- CATEGORY: Teacher_Role
+Teacher_Confirmation_Dependency -- CATEGORY: Teacher_Role
+Teacher_Prompting_without_Answer -- CATEGORY: Teacher_Role
+Time_Management_Problem -- CATEGORY: Constraints_and_Limitations
+Uneven_Participation -- CATEGORY: Peer_Interaction_and_Collaboration
+Within_Group_Discussion -- CATEGORY: Peer_Interaction_and_Collaboration

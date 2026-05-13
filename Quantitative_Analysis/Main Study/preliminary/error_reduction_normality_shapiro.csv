@@ -1,0 +1,7 @@
+Group,variable,statistic_W,p_value,result
+Control,grammar_reduction,0.9663585379510702,0.36864411249292056,Normal
+Experimental,grammar_reduction,0.9289429686611463,0.02914519083510216,Non-normal
+Control,vocabulary_reduction,0.8143244102957996,4.9103908935281174e-5,Non-normal
+Experimental,vocabulary_reduction,0.928387228078168,0.028083261501130472,Non-normal
+Control,mechanics_reduction,0.9145346154826355,0.01135656678349072,Non-normal
+Experimental,mechanics_reduction,0.9721480400454937,0.5231575669054772,Normal

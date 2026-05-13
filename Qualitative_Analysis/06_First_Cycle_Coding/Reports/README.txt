@@ -1,0 +1,1 @@
+Place QualCoder first-cycle exports here, such as coding reports, code frequencies, and per-file excerpt reports.

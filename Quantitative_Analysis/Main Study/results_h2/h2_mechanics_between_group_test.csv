@@ -1,0 +1,2 @@
+Category,test_used,statistic_name,statistic,df,p_value,mean_control,mean_experimental,mean_difference,effect_size_measure,effect_size
+Mechanics,Mann-Whitney U test,U,-311,NA,2.958404612073117e-4,3.2294117647058824,6.323529411764706,3.094117647058823,Cohen's d,0.9187879216878015

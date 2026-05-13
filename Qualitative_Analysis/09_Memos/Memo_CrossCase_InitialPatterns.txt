@@ -1,0 +1,21 @@
+Cross-Case Familiarization Memo
+
+1. Main contrast between groups
+The strongest contrast across the corpus lies in what students do with feedback. In the experimental group, feedback becomes an interactive learning resource: students decode, discuss, revise, present, and reflect. In the control group, feedback remains something delivered by the teacher and only glanced at by students. The contrast is therefore not only between coded and direct correction, but between active processing and passive reception.
+
+2. Main developmental pattern across time
+The experimental group shows a clear developmental trajectory from early adaptation in Week 1 to routinized, autonomous, and productive collaboration in Weeks 4 and 6. Initial confusion with symbols and occasional teacher over-support diminish over time. By contrast, the control group shows continuity without meaningful growth. If anything, engagement appears to decline by Week 6, suggesting that repeated exposure to direct correction did not generate increasing learner agency.
+
+3. Most recurrent observational dimensions
+- Feedback mode: coded, indirect, and discussion-oriented in EG; direct, written, and teacher-controlled in CG.
+- Student engagement: moderate-to-very high in EG and improving over time; low in CG and declining over time.
+- Peer interaction: emerging then extensive in EG; absent in CG.
+- Metalinguistic use: limited but visible in EG-W1, frequent by EG-W4 and EG-W6; absent in CG.
+- Autonomy and revision: partial in EG-W1, strong in EG-W4 and EG-W6; absent in CG.
+- Teacher role: facilitator/observer in EG; corrector/model provider in CG.
+
+4. Most salient constraints
+The main constraints in the experimental condition are transitional and pedagogically productive: symbol confusion, uneven participation in some groups, and time-management difficulties in the early phase. The main constraints in the control condition are structural and persistent: passive compliance, teacher dependence, no peer interaction, no revision culture, and lack of transfer.
+
+5. Preliminary implications for coding
+The initial coding framework should likely focus on implementation fidelity, type of feedback, peer interaction, engagement with correction, metalinguistic use, student autonomy, revision behaviour, teacher role, and learning transfer. It should also distinguish between early implementation challenges in EG and entrenched non-learning patterns in CG.

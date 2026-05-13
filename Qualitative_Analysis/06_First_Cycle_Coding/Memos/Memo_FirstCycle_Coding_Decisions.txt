@@ -1,0 +1,8 @@
+Decision note 1:
+When a segment describes students seeking teacher validation before proceeding, code as Teacher_Confirmation_Dependency. Use Lack_of_Autonomy only when the wider segment indicates broader dependence rather than one isolated request.
+
+Decision note 2:
+Use No_Revision_Transfer only when the note clearly indicates no revision, no carryover, copying, or persistence of unchanged errors. Do not use it for incomplete revision alone.
+
+Decision note 3:
+Allow overlapping codes when they capture distinct observable processes, but avoid excessive overcoding when one broader code is sufficient.

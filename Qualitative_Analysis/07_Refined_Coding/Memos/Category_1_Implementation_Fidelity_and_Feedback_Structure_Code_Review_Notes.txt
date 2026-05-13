@@ -1,0 +1,19 @@
+Code reviewed: Coded_Feedback_Used
+Broader pattern: implementation fidelity of ICM and active error processing
+Often appears with: High_Engagement, Within_Group_Discussion, Metalinguistic_Use_Present, Student_Initiated_Revision
+Trend across files: emerging in EG-W1, routine in EG-W4, fully internalized in EG-W6; absent as actual practice in CG
+
+Code reviewed: Direct_Correction_Used
+Broader pattern: traditional teacher-controlled correction and answer-providing
+Often appears with: Teacher_as_Corrector, Mechanical_Copying, Low_or_Passive_Engagement, No_Revision_Transfer
+Trend across files: present in CG-W1 and unchanged in CG-W6; not used as actual practice in EG, except as contrast in comparative sections
+
+Code reviewed: Prompt_Activation
+Broader pattern: lesson framing and task entry into the correction cycle
+Often appears with: High_Engagement in EG, No_Peer_Interaction in CG, Teacher_as_Facilitator or Teacher_as_Corrector depending on condition
+Trend across files: brief but supportive in EG, becoming more minimal as routines stabilize by EG-W6; stable but non-collaborative in CG-W1 and CG-W6
+
+Code reviewed: Revision_Cycle_Completed
+Broader pattern: closure of the feedback-revision-present-reflect sequence
+Often appears with: Student_Initiated_Revision, Across_Group_Exchange, Teacher_as_Facilitator, High_Engagement
+Trend across files: absent or only partial in EG-W1, clearly present in EG-W4, fully routinized in EG-W6; absent in CG as actual practice

@@ -1,0 +1,188 @@
+Initial Codebook v1
+Qualitative analysis of structured classroom observation sheets
+Approach: directed qualitative content analysis
+
+Instructional_Format_and_Feedback
+---------------------------------
+
+Prompt_Activation
+Definition: Teacher introduces the writing task, clarifies expectations, or activates prior knowledge.
+Include when: Prompt explanation; task framing; defining key terms; activating prior knowledge.
+Exclude when: Later guidance not related to task setup.
+Example type of evidence: ‘Teacher spent 10 minutes explaining the prompt, defining key terms, and activating prior knowledge.’
+Likely relevance to quantitative findings: Helps explain whether implementation began with clear task orientation, which may support later writing performance.
+
+Coded_Feedback_Used
+Definition: Feedback is provided through coded symbols rather than direct written correction.
+Include when: Coded symbols mentioned; drafts returned with codes; coding system referenced.
+Exclude when: Direct written corrections or model answers are provided instead.
+Example type of evidence: ‘Teacher collected drafts and applied coded symbols only, with no direct written correction.’
+Likely relevance to quantitative findings: Links qualitative evidence to the intervention mechanism behind experimental-group improvement.
+
+Direct_Correction_Used
+Definition: Teacher provides direct written correction, underlining, or model answers.
+Include when: Red underlining; correct forms written above/beside errors; model text supplied.
+Exclude when: Teacher prompts without giving the answer.
+Example type of evidence: ‘Essays returned with red underlines and correct forms written above/beside errors.’
+Likely relevance to quantitative findings: Helps explain why the control condition may produce compliance but weaker learning transfer.
+
+Revision_Cycle_Completed
+Definition: The lesson includes a full sequence of draft, feedback, revision, and final version.
+Include when: Revised/final drafts completed; feedback loop closed; presentation or reflection completes the cycle.
+Exclude when: Revision attempted but not completed.
+Example type of evidence: ‘All groups completed a final draft… Each group presented… students wrote individual reflections.’
+Likely relevance to quantitative findings: Supports interpretation of sustained improvement when students repeatedly revise their writing.
+
+
+Student_Engagement
+------------------
+
+High_Engagement
+Definition: Students actively attend to, process, or work with the task or feedback.
+Include when: Engagement rated high/very high; active decoding, discussion, revision, presenting; strong involvement noted.
+Exclude when: Mere compliance without active processing.
+Example type of evidence: ‘Students decoded symbols with focus… estimated actively engaged students: 90–95%.’
+Likely relevance to quantitative findings: Helps explain stronger gains where students actively process feedback.
+
+Low_or_Passive_Engagement
+Definition: Students show minimal cognitive involvement, passive compliance, or superficial attention.
+Include when: Students merely glance at corrections; compliance without engagement; explicit passivity.
+Exclude when: Mixed or clearly active engagement.
+Example type of evidence: ‘Students glanced briefly at corrections… classroom orderly but passive.’
+Likely relevance to quantitative findings: Supports explanation for weaker gains in the control group.
+
+On_Task_Behaviour
+Definition: Students remain behaviorally focused on lesson activities.
+Include when: Orderly participation; groups remain on task; productive classroom behavior.
+Exclude when: Evidence concerns only cognitive engagement level, not behavioral focus.
+Example type of evidence: ‘All groups on task. Smooth transition. No off-task behaviour.’
+Likely relevance to quantitative findings: Distinguishes orderly participation from deeper engagement with learning.
+
+
+Peer_Interaction_and_Collaboration
+----------------------------------
+
+Within_Group_Discussion
+Definition: Students discuss corrections, meanings, or revisions within groups.
+Include when: Group discussion; negotiation of corrections; collaborative drafting within groups.
+Exclude when: Students sit together but work individually.
+Example type of evidence: ‘Groups discussed error types and debated corrections.’
+Likely relevance to quantitative findings: May explain how collaborative processing strengthened learning in the experimental group.
+
+Across_Group_Exchange
+Definition: Students exchange drafts, comments, or feedback across groups.
+Include when: Inter-group exchange explicitly mentioned; groups comment on other groups’ work.
+Exclude when: Only within-group collaboration occurs.
+Example type of evidence: ‘Groups exchanged drafts with one another; students wrote brief peer comments.’
+Likely relevance to quantitative findings: Shows broader peer-feedback routines that may support revision and autonomy.
+
+No_Peer_Interaction
+Definition: Peer discussion or collaboration is absent.
+Include when: ‘No peer interaction’ stated; silent individual work; no peer-learning facilitation.
+Exclude when: Interaction exists, even if limited.
+Example type of evidence: ‘No peer interaction. Students sat at tables for two in silence.’
+Likely relevance to quantitative findings: Helps explain why control-group correction may not translate into deeper learning.
+
+Uneven_Participation
+Definition: Collaboration exists but participation is not equally distributed.
+Include when: Dominant speakers; quieter students passive; some group members contribute less.
+Exclude when: Participation described as equitable.
+Example type of evidence: ‘Some groups had dominant speakers; quieter students observed passively.’
+Likely relevance to quantitative findings: Useful for explaining variability within the experimental condition.
+
+
+Metalinguistic_Use_and_Revision
+-------------------------------
+
+Metalinguistic_Use_Present
+Definition: Students use grammatical or linguistic terminology to discuss errors or revisions.
+Include when: Terms like tense, article, agreement, spelling, preposition; naming error types.
+Exclude when: Corrections made without explicit linguistic terminology.
+Example type of evidence: ‘Frequent use of “tense”, “agreement”, “preposition”, “article”.’
+Likely relevance to quantitative findings: Provides process evidence for improved linguistic awareness behind quantitative gains.
+
+Metalinguistic_Use_Absent
+Definition: Students do not use grammatical terminology or cannot name error categories.
+Include when: No metalanguage observed; students cannot identify error types.
+Exclude when: Any explicit linguistic terminology appears, even limited.
+Example type of evidence: ‘No metalanguage used. Students could not name error types.’
+Likely relevance to quantitative findings: Helps explain weaker development in the control group.
+
+Student_Initiated_Revision
+Definition: Students revise or correct errors on their own or with peers, without depending on direct teacher correction.
+Include when: Self-correction; independent identification and correction; peer-supported revision.
+Exclude when: Teacher supplies the correction directly.
+Example type of evidence: ‘Students identified and corrected errors without teacher prompting.’
+Likely relevance to quantitative findings: Directly supports interpretation of how the intervention improved writing outcomes.
+
+No_Revision_Transfer
+Definition: Students do not carry feedback into later writing or revision.
+Include when: No revision attempted; copying model text; same errors persist; no transfer to own writing.
+Exclude when: Partial but real revision occurs.
+Example type of evidence: ‘No revision across six weeks… no transfer to own writing.’
+Likely relevance to quantitative findings: Explains why correction alone may not reduce errors quantitatively.
+
+
+Teacher_Role
+------------
+
+Teacher_as_Facilitator
+Definition: Teacher prompts, monitors, guides, or observes without supplying answers directly.
+Include when: Encourages discussion; asks prompting questions; observes more than instructs.
+Exclude when: Teacher directly corrects or answers.
+Example type of evidence: ‘Teacher prompted: “What do your group members think?” No direct answers provided.’
+Likely relevance to quantitative findings: Supports the mechanism of learner autonomy and collaborative revision.
+
+Teacher_as_Corrector
+Definition: Teacher acts mainly as source of correction, answers, or model text.
+Include when: Teacher fixes errors; provides answers; provides correct model version.
+Exclude when: Guidance is indirect and dialogic.
+Example type of evidence: ‘Teacher wrote a model text on the board. Students copied it.’
+Likely relevance to quantitative findings: Helps interpret the control condition as teacher-dependent rather than learner-driven.
+
+Teacher_Prompting_without_Answer
+Definition: Teacher intervenes through prompting rather than direct correction.
+Include when: Teacher redirects students to peers; asks questions instead of giving answers.
+Exclude when: Prompt is followed by the teacher giving the answer.
+Example type of evidence: ‘Teacher prompted but did not provide direct answers.’
+Likely relevance to quantitative findings: Shows instructional support consistent with the intervention model.
+
+Teacher_Confirmation_Dependency
+Definition: Students rely on teacher validation before accepting or applying corrections.
+Include when: Repeated ‘Is this correct?’; frequent need for teacher confirmation.
+Exclude when: Students resolve issues mainly within groups or independently.
+Example type of evidence: ‘Students frequently asked teacher “Is this correct?” before consulting peers.’
+Likely relevance to quantitative findings: Important for interpreting transitional stages of autonomy.
+
+
+Constraints_and_Limitations
+---------------------------
+
+Symbol_Confusion
+Definition: Students struggle to interpret coded feedback symbols.
+Include when: Confusion with symbols; repeated need for reference cards; meanings not internalized.
+Exclude when: Symbols clearly internalized and used automatically.
+Example type of evidence: ‘Approximately one-third of students struggled to recall symbol meanings.’
+Likely relevance to quantitative findings: Explains early implementation friction in the experimental group.
+
+Time_Management_Problem
+Definition: Time is used inefficiently or lesson phases do not progress smoothly.
+Include when: Delayed transitions; decoding/revision takes too long; phases not completed on time.
+Exclude when: Timing is smooth and all phases are completed.
+Example type of evidence: ‘Decoding and revision took longer than planned.’
+Likely relevance to quantitative findings: Helps qualify effectiveness by identifying implementation constraints.
+
+Mechanical_Copying
+Definition: Students copy a model text or correction without analysis or understanding.
+Include when: Copying explicitly noted; model text reproduced rather than learned from.
+Exclude when: Students adapt, revise, or produce original text.
+Example type of evidence: ‘Students copied model text without analysis or questions.’
+Likely relevance to quantitative findings: Strong explanatory code for why direct correction may fail to improve writing.
+
+Lack_of_Autonomy
+Definition: Students depend heavily on teacher correction or do not self-correct.
+Include when: Waiting for teacher; no self-correction; heavy dependence on teacher validation.
+Exclude when: Students revise independently or mainly with peers.
+Example type of evidence: ‘Students waited for teacher to correct errors.’
+Likely relevance to quantitative findings: Helps explain weaker learning transfer and slower improvement.
+

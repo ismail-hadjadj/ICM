@@ -1,0 +1,14 @@
+Document ID Key
+
+EG = Experimental Group
+CG = Control Group
+W1 = Week 1
+W4 = Week 4
+W6 = Week 6
+
+Document IDs:
+EG-W1 = Experimental Group, Week 1
+EG-W4 = Experimental Group, Week 4
+EG-W6 = Experimental Group, Week 6
+CG-W1 = Control Group, Week 1
+CG-W6 = Control Group, Week 6

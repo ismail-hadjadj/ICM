@@ -1,0 +1,3 @@
+Group,n_Pre-test,n_Post-test,mean_Pre-test,mean_Post-test,sd_Pre-test,sd_Post-test,min_Pre-test,min_Post-test,max_Pre-test,max_Post-test
+Control,34,34,4.676470588235294,6.485294117647059,3.9598024762131616,4.399526996128256,1,1,14,16
+Experimental,34,34,4.882352941176471,8.588235294117647,3.9524806624206614,4.307271139623292,1,2,14,17

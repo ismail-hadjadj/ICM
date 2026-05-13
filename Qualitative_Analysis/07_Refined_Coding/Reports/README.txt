@@ -1,0 +1,1 @@
+Place QualCoder refined coding exports here, such as cleaned excerpt reports, code co-occurrence outputs, and final code summaries.

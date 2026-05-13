@@ -1,0 +1,2 @@
+Category,test_used,statistic_name,statistic,df,p_value,mean_control,mean_experimental,mean_difference,effect_size_measure,effect_size
+Vocabulary,Mann-Whitney U test,U,-228.5,NA,0.007065775206949954,0.8529411764705882,1.8529411764705883,1,Cohen's d,0.7339251892320786

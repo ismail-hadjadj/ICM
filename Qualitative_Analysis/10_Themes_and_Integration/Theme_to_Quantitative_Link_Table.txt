@@ -1,0 +1,74 @@
+Theme_to_Quantitative_Link_Table
+
+Study Purpose:
+This table links the final qualitative themes from the classroom observation analysis to the quantitative strand of the dissertation. Its purpose is to show how the qualitative findings help explain, contextualize, and strengthen interpretation of the quantitative results.
+
+--------------------------------------------------------------------------------
+Theme 1: The ICM progressed from initial adjustment to stable procedural fidelity, whereas traditional correction remained structurally unchanged.
+--------------------------------------------------------------------------------
+
+Qualitative Pattern:
+The experimental condition moved from partial and transitional implementation in Week 1 to full and routinized implementation by Weeks 4 and 6. Coded feedback, collaborative drafting, decoding, revision, presentation, and reflection increasingly operated as a coherent cycle. In contrast, the control condition remained structurally static across observations, continuing to rely on direct correction, individual drafting, and copying of model texts.
+
+Quantitative Relevance:
+This theme supports the internal validity of the intervention effect. It suggests that any quantitative advantage observed in the experimental group is interpretable as the outcome of a genuinely implemented and increasingly stable instructional model, rather than a weak or inconsistently applied treatment.
+
+Interpretive Link:
+The quantitative gains in the experimental group can be interpreted more confidently because the qualitative observations show that the ICM was not merely introduced in name, but progressively stabilized as an operational classroom routine.
+
+Supporting Documents:
+EG-W1, EG-W4, EG-W6, CG-W1, CG-W6
+
+--------------------------------------------------------------------------------
+Theme 2: The ICM shifted students from passive receipt of correction to active engagement with feedback, while traditional correction sustained compliance without deep processing.
+--------------------------------------------------------------------------------
+
+Qualitative Pattern:
+Students in the experimental group increasingly engaged actively with feedback by decoding symbols, discussing meanings, and working through corrections. Engagement rose from approximately 55–60% in Week 1 to around 90–95% in Weeks 4 and 6. In the control group, engagement remained low and declined over time, with students mainly glancing at corrections and complying with teacher demands rather than processing feedback deeply.
+
+Quantitative Relevance:
+This theme helps explain stronger quantitative gains in the experimental group by showing that students were more cognitively involved in the correction process. The control group’s weaker quantitative outcomes are consistent with the observed pattern of passive correction reception.
+
+Interpretive Link:
+If students actively work with feedback, they are more likely to benefit from it. The qualitative strand therefore helps explain why the experimental group may have shown better writing-related improvement than the control group.
+
+Supporting Documents:
+EG-W1, EG-W4, EG-W6, CG-W1, CG-W6
+
+--------------------------------------------------------------------------------
+Theme 3: Collaborative discussion and metalinguistic talk became central mechanisms of learning in the ICM, but remained absent in traditional correction.
+--------------------------------------------------------------------------------
+
+Qualitative Pattern:
+The experimental group increasingly used peer discussion and grammatical terminology to interpret and negotiate corrections. Early hesitation in Week 1 developed into confident collaborative discussion and frequent metalinguistic use by Weeks 4 and 6. The control group showed neither peer-based correction work nor explicit metalinguistic processing across the observation period.
+
+Quantitative Relevance:
+This theme provides a plausible mechanism for stronger quantitative performance in the experimental group, especially in measures related to error awareness, correction accuracy, and writing development. The absence of such processes in the control group helps explain weaker gains.
+
+Interpretive Link:
+Collaborative and metalinguistic processing likely increased students’ noticing of errors, strengthened understanding of correction, and supported deeper learning beyond surface exposure to teacher markings.
+
+Supporting Documents:
+EG-W1, EG-W4, EG-W6, CG-W1, CG-W6
+
+--------------------------------------------------------------------------------
+Theme 4: The ICM fostered learner autonomy and revision transfer, whereas traditional correction preserved teacher dependence and non-transfer.
+--------------------------------------------------------------------------------
+
+Qualitative Pattern:
+In the experimental group, revision moved from early teacher-supported attempts in Week 1 to independent, routine, and effective revision by Weeks 4 and 6. Students increasingly corrected errors without prompting and transferred feedback into improved drafts. In the control group, students remained dependent on teacher correction, copied model texts, and showed no visible revision culture or transfer of feedback into later writing.
+
+Quantitative Relevance:
+This theme offers the strongest qualitative explanation for sustained quantitative improvement in the experimental group. If learners became more autonomous and more able to transfer correction into their own writing, improved performance would be expected. The control group’s continued dependence helps explain limited quantitative progress.
+
+Interpretive Link:
+The observations suggest that the ICM did not simply improve classroom participation; it changed who carried the cognitive work of correction. In the experimental group, that work increasingly shifted to students themselves.
+
+Supporting Documents:
+EG-W1, EG-W4, EG-W6, CG-W1, CG-W6
+
+--------------------------------------------------------------------------------
+Overall Integrative Summary
+--------------------------------------------------------------------------------
+
+Across the four themes, the qualitative strand shows that the experimental condition differed from the control condition not only in the formal type of feedback used, but in the classroom processes that surrounded correction. The ICM became procedurally stable, generated higher engagement with feedback, encouraged collaborative and metalinguistic error processing, and supported increasing learner autonomy and revision transfer. The traditional correction model, by contrast, remained centered on direct teacher correction, passive reception, copying, and dependence. These qualitative findings therefore help explain why the experimental group outperformed the control group quantitatively and show that the observed statistical differences were grounded in meaningfully different classroom learning processes.

@@ -1,0 +1,5 @@
+assumption,test_indicator,result,decision
+Linearity,Scatterplot inspection,Inspect h1_scatter_pre_post_by_group.png,Judge from plot
+Homogeneity of regression slopes,Group × Pre-test interaction,"F = 1.162, p = 0.2851",Satisfied
+Normality of residuals,Shapiro-Wilk test,"W = 0.975, p = 0.1901",Satisfied
+Homogeneity of variance,Levene's test,"F = 0.406, p = 0.5261",Satisfied

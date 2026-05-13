@@ -1,0 +1,2 @@
+Category,test_used,statistic_name,statistic,df,p_value,mean_control,mean_experimental,mean_difference,effect_size_measure,effect_size
+Grammar,Mann-Whitney U test,U,-432,NA,3.1900863311681814e-7,1.3823529411764706,5.705882352941177,4.3235294117647065,Cohen's d,1.4723822785846772

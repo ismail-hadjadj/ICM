@@ -1,0 +1,31 @@
+Document ID: EG-W1
+Group: Experimental (ICM)
+Week: W1
+
+1. Overall snapshot
+This first observation of the experimental group shows an early but promising implementation of the ICM procedure. The instructional cycle was largely present, with collaborative drafting, coded feedback, decoding, and attempted revision already visible. However, the process was still transitional, as some students were learning the symbol system and continued to seek teacher confirmation.
+
+2. Most visible classroom processes
+- Teacher introduced the prompt clearly and activated prior knowledge.
+- Students worked in small groups and produced collaborative drafts.
+- Coded feedback was applied and students began decoding symbols.
+- Peer discussion emerged within groups, with limited exchange across groups.
+- Revision was attempted but not fully completed in all groups.
+
+3. Student engagement pattern
+Engagement was moderate to high for a first week of implementation, estimated at about 55–60%. Students were attentive and generally on task, though engagement was uneven across groups.
+
+4. Peer interaction pattern
+Peer interaction was emerging rather than fully established. Students discussed error types within groups, and some peer consultation occurred, but exchange across groups remained limited.
+
+5. Teacher role pattern
+The teacher functioned mainly as a facilitator and introducer of the coded system, but occasionally gave direct answers when students struggled. This suggests partial rather than full facilitative positioning.
+
+6. Evidence of revision / metalinguistic use / autonomy
+There was early evidence of metalinguistic engagement, as some students attempted to name error types. Revision began, but autonomy was still limited because many students relied on teacher confirmation before proceeding.
+
+7. Issues or constraints noted
+The main constraints were confusion with symbols, uneven participation in some groups, weak transitions between phases, and over-reliance on teacher confirmation. Time management also appears to have slowed the feedback cycle.
+
+8. Relevance for later coding
+This document is likely to be important for codes related to early implementation fidelity, symbol confusion, emerging peer interaction, partial metalinguistic use, teacher confirmation, and attempted but incomplete revision.

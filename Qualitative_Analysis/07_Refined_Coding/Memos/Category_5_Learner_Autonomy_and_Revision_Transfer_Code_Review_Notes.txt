@@ -1,0 +1,19 @@
+Code reviewed: Student_Initiated_Revision
+Broader pattern: learner autonomy and active use of feedback for text improvement
+Often appears with: High_Engagement, Within_Group_Discussion, Metalinguistic_Use_Present, Revision_Cycle_Completed
+Trend across files: tentative and incomplete in EG-W1, strong in EG-W4, automatic and independent in EG-W6; absent in CG
+
+Code reviewed: No_Revision_Transfer
+Broader pattern: correction without carryover into later writing or revision
+Often appears with: Mechanical_Copying, Low_or_Passive_Engagement, No_Peer_Interaction, Lack_of_Autonomy, Direct_Correction_Used
+Trend across files: strong in CG-W1 and still entrenched in CG-W6; only a partial temporary issue in EG-W1 due to incomplete cycle, then resolved
+
+Code reviewed: Lack_of_Autonomy
+Broader pattern: broader dependent learning behaviour and weak self-correction
+Often appears with: Teacher_Confirmation_Dependency, No_Revision_Transfer, Teacher_as_Corrector, Low_or_Passive_Engagement
+Trend across files: visible in EG-W1 as an early limitation, substantially reduced in EG-W4, absent as a dominant pattern in EG-W6; strong in CG-W1 and CG-W6
+
+Code reviewed: Teacher_Confirmation_Dependency
+Broader pattern: explicit validation-seeking before students act on corrections
+Often appears with: Student_Initiated_Revision in early EG, Lack_of_Autonomy, sometimes Within_Group_Discussion
+Trend across files: frequent in EG-W1, reduced by EG-W4 as students consult peers first, absent as a major feature in EG-W6; in CG it reflects entrenched dependence on teacher correction

@@ -1,0 +1,14 @@
+Code reviewed: High_Engagement
+Broader pattern: active cognitive involvement in decoding, discussing, and acting on feedback
+Often appears with: Coded_Feedback_Used, Within_Group_Discussion, Metalinguistic_Use_Present, Student_Initiated_Revision, On_Task_Behaviour
+Trend across files: moderate in EG-W1, very strong in EG-W4, sustained and seamless in EG-W6; not characteristic of CG
+
+Code reviewed: Low_or_Passive_Engagement
+Broader pattern: surface compliance without meaningful engagement with correction
+Often appears with: No_Peer_Interaction, Mechanical_Copying, No_Revision_Transfer, Metalinguistic_Use_Absent, sometimes On_Task_Behaviour
+Trend across files: clear in CG-W1 and more entrenched in CG-W6; only occasional and minor in EG-W1 through uneven participation or off-task moments
+
+Code reviewed: On_Task_Behaviour
+Broader pattern: behavioural order and task compliance, which may or may not involve deep learning
+Often appears with: High_Engagement in EG; Low_or_Passive_Engagement in CG
+Trend across files: present in both conditions, but in EG it aligns with active processing, whereas in CG it often means orderly but passive behaviour

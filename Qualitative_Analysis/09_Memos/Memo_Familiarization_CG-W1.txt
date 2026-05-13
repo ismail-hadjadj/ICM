@@ -1,0 +1,31 @@
+Document ID: CG-W1
+Group: Control (Traditional)
+Week: W1
+
+1. Overall snapshot
+The first observation of the control group presents a traditional correction model characterized by order, direct correction, and student compliance. Although the classroom was calm and the teacher corrected diligently, students showed minimal cognitive engagement with feedback and almost no evidence of collaborative or reflective learning.
+
+2. Most visible classroom processes
+- Teacher explained the prompt and students drafted individually.
+- Drafts were collected and later returned with direct written correction.
+- Students reviewed corrections only briefly.
+- A model text was written on the board and copied by students.
+- No revision cycle or peer discussion was built into the lesson.
+
+3. Student engagement pattern
+Engagement with correction was low, estimated at about 15–20%. Students complied with the task but did not actively process corrections.
+
+4. Peer interaction pattern
+Peer interaction was absent. Students worked individually and no collaborative discussion was encouraged.
+
+5. Teacher role pattern
+The teacher acted as corrector and model provider rather than facilitator. Students depended on the teacher for error resolution.
+
+6. Evidence of revision / metalinguistic use / autonomy
+There was no visible revision attempt, no meaningful metalinguistic use, and no evidence of student autonomy. Students copied corrected forms and model text rather than engaging with their own errors.
+
+7. Issues or constraints noted
+The main constraints were limited engagement with correction, over-reliance on teacher correction, absence of peer interaction, mechanical copying, and lack of transfer from correction to revision.
+
+8. Relevance for later coding
+This document will be central for codes related to direct correction, passive compliance, model-text copying, absence of peer interaction, no revision, no metalinguistic use, and teacher dependence.

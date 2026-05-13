@@ -1,0 +1,19 @@
+Code reviewed: Within_Group_Discussion
+Broader pattern: collaborative revision and shared meaning-making around errors
+Often appears with: High_Engagement, Metalinguistic_Use_Present, Student_Initiated_Revision, Teacher_as_Facilitator
+Trend across files: present but uneven in EG-W1, structured and strong in EG-W4, fully normalized in EG-W6; absent as a real pattern in CG
+
+Code reviewed: Across_Group_Exchange
+Broader pattern: extended peer-mediated learning beyond the immediate group
+Often appears with: Teacher_Prompting_without_Answer, Revision_Cycle_Completed, Student_Initiated_Revision, High_Engagement
+Trend across files: limited and only partial in EG-W1, clear in EG-W4, extensive and routine in EG-W6; absent in CG
+
+Code reviewed: No_Peer_Interaction
+Broader pattern: isolated individual correction with no collaborative processing
+Often appears with: Low_or_Passive_Engagement, Mechanical_Copying, No_Revision_Transfer, Metalinguistic_Use_Absent, Lack_of_Autonomy
+Trend across files: strong in CG-W1 and unchanged in CG-W6; not a defining pattern in EG except where a few groups were less talkative in EG-W1
+
+Code reviewed: Uneven_Participation
+Broader pattern: early-stage imbalance inside otherwise collaborative work
+Often appears with: Within_Group_Discussion, Low_or_Passive_Engagement in quieter members, Teacher_Confirmation_Dependency
+Trend across files: visible mainly in EG-W1, resolved by EG-W4 through assigned roles, absent by EG-W6; not a useful CG pattern where collaboration itself is absent

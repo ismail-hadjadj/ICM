@@ -1,0 +1,22 @@
+Qualitative Data File Inventory
+
+Dataset: Inspector’s Classroom Observation Sheets
+Purpose: Qualitative strand supporting the quantitative findings of the dissertation
+
+Files included:
+1. EG-W1.pdf  - Experimental group, Week 1
+2. EG-W4.pdf  - Experimental group, Week 4
+3. EG-W6.pdf  - Experimental group, Week 6
+4. CG-W1.pdf  - Control group, Week 1
+5. CG-W6.pdf  - Control group, Week 6
+
+Observer:
+Mohamed SAIDI, English Inspector
+
+School:
+Cheikh Larbi Tebessi secondary-school, Tebessa
+
+Notes:
+- Each file contains a structured observation sheet.
+- Each sheet includes fixed observation categories and handwritten notes.
+- These files constitute the raw qualitative data for the embedded qualitative analysis.

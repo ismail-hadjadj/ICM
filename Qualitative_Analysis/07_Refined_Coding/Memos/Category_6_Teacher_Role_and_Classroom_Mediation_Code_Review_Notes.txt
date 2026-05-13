@@ -1,0 +1,19 @@
+Code reviewed: Teacher_as_Facilitator
+Broader pattern: indirect classroom mediation that supports collaborative learning and autonomy
+Often appears with: Teacher_Prompting_without_Answer, Within_Group_Discussion, Student_Initiated_Revision, High_Engagement
+Trend across files: visible but mixed in EG-W1, clear in EG-W4, minimal and fully facilitative in EG-W6; absent as the dominant role in CG
+
+Code reviewed: Teacher_as_Corrector
+Broader pattern: teacher-centered correction and control over error resolution
+Often appears with: Direct_Correction_Used, Mechanical_Copying, Lack_of_Autonomy, Low_or_Passive_Engagement
+Trend across files: strong in CG-W1 and unchanged in CG-W6; appears only occasionally in EG-W1 when the teacher gives direct answers under pressure
+
+Code reviewed: Teacher_Prompting_without_Answer
+Broader pattern: guided mediation that redirects responsibility back to students and peers
+Often appears with: Teacher_as_Facilitator, Across_Group_Exchange, Within_Group_Discussion, High_Engagement
+Trend across files: only partial in EG-W1, clearly established in EG-W4, largely unnecessary by EG-W6 because students resolve most issues within groups; absent in CG
+
+Code reviewed: Time_Management_Problem
+Broader pattern: implementation efficiency and smooth movement through lesson phases
+Often appears with: Symbol_Confusion, Teacher_Confirmation_Dependency, incomplete revision in early EG; with non-productive use of time in CG
+Trend across files: problematic in EG-W1, resolved in EG-W4 and EG-W6; remains an issue in CG-W1 and CG-W6 in the sense that time is orderly but not exploited for learning

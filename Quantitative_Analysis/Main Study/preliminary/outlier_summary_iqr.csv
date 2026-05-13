@@ -1,0 +1,12 @@
+variable,n_outliers
+grammar_reduction,1
+mechanics_reduction,2
+post_grammar,0
+post_holistic,0
+post_mechanics,0
+post_vocabulary,0
+pre_grammar,4
+pre_holistic,0
+pre_mechanics,0
+pre_vocabulary,0
+vocabulary_reduction,13

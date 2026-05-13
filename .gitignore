@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+
+# R session/cache files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python cache, if scripts are added later
+__pycache__/
+*.pyc

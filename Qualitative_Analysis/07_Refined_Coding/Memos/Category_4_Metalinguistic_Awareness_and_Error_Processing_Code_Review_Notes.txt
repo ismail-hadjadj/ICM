@@ -1,0 +1,14 @@
+Code reviewed: Metalinguistic_Use_Present
+Broader pattern: explicit linguistic awareness during error interpretation and correction
+Often appears with: Within_Group_Discussion, High_Engagement, Student_Initiated_Revision, Coded_Feedback_Used
+Trend across files: limited and emerging in EG-W1, frequent and confident in EG-W4, consistent and accurate in EG-W6; absent in CG
+
+Code reviewed: Metalinguistic_Use_Absent
+Broader pattern: non-analytic reception of correction without naming or discussing error types
+Often appears with: Low_or_Passive_Engagement, No_Peer_Interaction, No_Revision_Transfer
+Trend across files: strong in CG-W1 and unchanged in CG-W6; not characteristic of EG after initial implementation
+
+Code reviewed: Symbol_Confusion
+Broader pattern: early implementation difficulty in learning how to decode coded feedback
+Often appears with: Coded_Feedback_Used, Teacher_Confirmation_Dependency, Time_Management_Problem
+Trend across files: clearly present in EG-W1, resolved by EG-W4, absent in EG-W6; not applicable to CG where no coding system is used
